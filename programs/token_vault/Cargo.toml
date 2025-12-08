@@ -1,12 +1,12 @@
 [package]
-name = "Token_Vault"
+name = "token_vault"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "Token_Vault"
+name = "token_vault"
 
 [workspace]
 resolver = "2"
